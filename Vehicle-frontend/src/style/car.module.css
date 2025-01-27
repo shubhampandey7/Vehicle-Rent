@@ -1,0 +1,21 @@
+.item {
+  background-color: antiquewhite;
+}
+
+.div1 {
+  background-color: antiquewhite;
+  display: flex;
+  width: 100%;
+  float: left;
+  gap: 15px;
+}
+.btn {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.div2 {
+  background-color: antiquewhite;
+  display: flex;
+  float: left;
+}

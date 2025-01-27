@@ -1,0 +1,24 @@
+.lgn {
+  background-color: aqua;
+  font-size: larger;
+  text-align: center;
+  color: black;
+  padding: 3%;
+  align-items: justify;
+  margin: 3%;
+}
+.text {
+  color: red;
+}
+.tbl {
+  margin: 0 auto;
+}
+.btn {
+  margin-right: 10px;
+  margin-left: 10px;
+  gap: 5px;
+}
+
+.bg {
+  background-color: aqua;
+}
